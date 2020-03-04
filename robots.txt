@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://lpddog.com/sitemap.xml
-Sitemap: http://lpddog.com/baidusitemap.xml
+Sitemap: http://www.lpdxlg.xyz
+Sitemap: http://www.lpdxlg.xyz/baidusitemap.xml
